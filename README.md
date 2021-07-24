@@ -29,7 +29,7 @@ When downloading from either location, check the URL bar of your browser to ensu
 
 ### Current Release
 
-The most recent release can be downloaded here: [South Park Soundboard v1.0](https://github.com/soundbytesdotme/south-park-soundboard/releases)
+The most recent release can be downloaded here: [South Park Soundboard (v1.0)](https://github.com/soundbytesdotme/south-park-soundboard/releases)
 
 
 
