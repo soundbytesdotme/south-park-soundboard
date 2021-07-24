@@ -18,7 +18,7 @@ You can long-press any audio clip to do any of the following actions:
 
 ## Download the South Park Soundboard
 
-The South Park Soundboard app can be downloaded from any of the following places:
+The South Park Soundboard can be downloaded from any of our following locations:
 
  - [Google Play](https://play.google.com/store/apps/details?id=me.soundbytes.southparksoundboard)
  - [GitHub Releases](https://github.com/soundbytesdotme/south-park-soundboard/releases)
