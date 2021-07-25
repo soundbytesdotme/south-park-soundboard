@@ -1,7 +1,7 @@
 # South Park Soundboard
 The Official Repo for the Most Comprehensive South Park Soundboard on Android.
 
-<img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/689e28d0dbe1cdaedc1c7a23baaaec6dae043cd1/screenshot-(home).png" alt="Home Screenshot" width="30%"/> <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/689e28d0dbe1cdaedc1c7a23baaaec6dae043cd1/screenshot-(pickaversion).png" alt="Cartman's Alter-egos" width="30%"/> <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/689e28d0dbe1cdaedc1c7a23baaaec6dae043cd1/screenshot-(sounds-page).png" alt="Cartman's Sounds" width="30%"/>
+<img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/main/assets/screenshots/screenshot-(home).png" alt="Home Screenshot" width="30%"/> <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/main/assets/screenshots/screenshot-(pickaversion).png" alt="Cartman's Alter-egos" width="30%"/> <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/main/assets/screenshots/screenshot-(sounds-page).png" alt="Cartman's Sounds" width="30%"/>
 
 The South Park Soundboard is the ultimate hub for true South Park fans!
 Listen to over 5000 audio clips from over 270 different characters, spanning
