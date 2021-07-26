@@ -23,7 +23,7 @@ You can long-press any audio clip to do any of the following actions:
 The South Park Soundboard can be downloaded from any of the following locations:
 
  - [Google Play](https://play.google.com/store/apps/details?id=me.soundbytes.southparksoundboard)
- - [Direct Download of APK](https://github.com/soundbytesdotme/south-park-soundboard/releases) via this repo's releases page
+ - [Direct Download of APK](https://github.com/soundbytesdotme/south-park-soundboard/releases/download/v1.0/south-park-soundboard-1-0.apk) via this repo's releases page
 
 When downloading from either location, check the URL bar of your browser to ensure you are in the correct place and not visiting a phishing link.
 
