@@ -7,9 +7,11 @@ The South Park Soundboard is the ultimate hub for true South Park fans!
 Listen to over 5000 audio clips from over 270 different characters, spanning
 all 23 seasons of South Park.
 
-Instantly playback your favourite South Park quotes with on-demand audio clips. Listen to quotes from Cartman, Kyle, Stan, Kenny, Butters, Randy, and many more of your favourite characters, straight from your phone!
+Instantly playback your favourite South Park quotes with on-demand audio clips.
 
-Find your favourite quotes by using the search tool to find exactly what you are looking for.
+Listen to quotes from characters such as Cartman, Kyle, Stan, Kenny, Butters, Randy, Towelie, Mr. Garrison, Tweek, Mr. Hankey, Chef, PC Principal, Mr. Mackey, Terrance and Phillip, and many more of your favourite characters, all straight from your phone!
+
+Explore the depths of the South Park universe by going through alter-egos of your favourites characters such as Cartman's "The Coon", Kenny's "Mysterion", Butters' "Professor Chaos", and even more niche alter-egos like Cartman's "Officer Cartman", which was featured in the Season 2 episode, "Chickenlover".
 
 You can long-press any audio clip to do any of the following actions:
 
