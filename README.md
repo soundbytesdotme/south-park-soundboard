@@ -1,5 +1,5 @@
 # South Park Soundboard
-The Official Repo for the Most Comprehensive South Park Soundboard on Android.
+The official repository for the most comprehensive South Park soundboard on Android.
 
 <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/main/assets/screenshots/screenshot-(home).png" alt="Home Screenshot" width="30%"/> <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/main/assets/screenshots/screenshot-(pickaversion).png" alt="Cartman's Alter-egos" width="30%"/> <img src="https://raw.githubusercontent.com/soundbytesdotme/south-park-soundboard/main/assets/screenshots/screenshot-(sounds-page).png" alt="Cartman's Sounds" width="30%"/>
 
