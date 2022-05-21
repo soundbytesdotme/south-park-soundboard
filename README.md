@@ -9,7 +9,7 @@ the first 23 seasons of South Park.
 
 Instantly playback your favorite South Park quotes with on-demand audio clips.
 
-Listen to quotes from characters such as Eric Cartman, Kyle Broflovski, Stan Marsh, Kenny McCormick, Butters Stotch, Randy Marsh, Towelie, Mr. Garrison, Tweek, Mr. Hankey, Chef, PC Principal, Mr. Mackey, Terrance and Phillip, and so much more, all straight from your phone!
+Listen to audio clips from characters such as Eric Cartman, Stan Marsh, Kyle Broflovski, Kenny McCormick, Butters Stotch, Randy Marsh, Mr. Garrison, Clyde Donovan, Craig Tucker, Gerald Broflovski, Heidi Turner, Ike Broflovski, Harrison Yates, Heidi Turner, Jimmy Valmer, Mr. Mackey, PC Principal, Scott Malkinson, Shelly Marsh, Stephen Stotch, Strong Woman, Token Black, Towelie, Tweek Tweak, Wendy Testaburger, Bebe Stevens, Darryl Weathers, Father Maxi, Nichole Daniels, Timmy Burch, Tuong Lu Kim, and so much more, all straight from your Android device!
 
 Explore the depths of the South Park universe by going through alter-egos of characters such as Cartman's "The Coon", Kenny's "Mysterion", Butters' "Professor Chaos", and even more niche alter-egos like Cartman's "Officer Cartman", which was featured in the Season 2 episode, "Chickenlover", and many more.
 
