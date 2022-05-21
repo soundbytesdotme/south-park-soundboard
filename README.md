@@ -1,6 +1,6 @@
 # South Park Soundboard
 
-<img src="assets/screenshots/screenshot-(home).png" alt="Home Screenshot" width="30%"/> <img src="assets/screenshots/screenshot-(pickaversion).png" alt="Cartman's Alter-egos" width="30%"/> <img src="assets/screenshots/screenshot-(sounds-page).png" alt="Cartman's Sounds" width="30%"/>
+<img src="assets/screenshots/home-page.png" alt="Screenshot of App's Home Page" width="30%"/> <img src="assets/screenshots/pick-a-version.png" alt="Screenshot of Cartman's Alter-egos Page" width="30%"/> <img src="assets/screenshots/sounds-page.png" alt="Screenshot of Cartman's Audio Clips" width="30%"/>
 
 The South Park Soundboard is the ultimate hub for true South Park fans!
 
